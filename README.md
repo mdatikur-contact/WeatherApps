@@ -30,33 +30,12 @@ This project is a starting point for Flutter application development. If you’r
 
 ### 🔧 Installation Steps
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/mdatikur-contact/WeatherApps.git
    cd WeatherApps
 
-Get the dependencies:
 
-
-flutter pub get
-Run the app:
-
-
-flutter run
-📁 Folder Structure
-
-lib/
-├── main.dart
-├── screens/
-│   └── home_screen.dart
-├── services/
-│   └── weather_api.dart
-├── models/
-│   └── weather_model.dart
-└── widgets/
-    └── weather_card.dart
-📚 Documentation
-For full Flutter documentation, visit the Flutter official site.
 
 🤝 Contributions
 Contributions, issues, and feature requests are welcome!
