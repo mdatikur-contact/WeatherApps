@@ -14,7 +14,6 @@ A beautifully designed Flutter application that provides real-time weather updat
 
 Watch a short demo of the WeatherApps project on Google Drive:  
 👉 [Click to Watch Project Video](https://drive.google.com/file/d/1mNNN2fN2jMuVySgzBtVD6QW6X-NtPq0q/view?usp=sharing)  
-> _(Replace the link above with your actual Google Drive shareable link.)_
 
 ## 🚀 Getting Started
 
@@ -35,3 +34,36 @@ This project is a starting point for Flutter application development. If you’r
    ```bash
    git clone https://github.com/mdatikur-contact/WeatherApps.git
    cd WeatherApps
+
+Get the dependencies:
+
+
+flutter pub get
+Run the app:
+
+
+flutter run
+📁 Folder Structure
+
+lib/
+├── main.dart
+├── screens/
+│   └── home_screen.dart
+├── services/
+│   └── weather_api.dart
+├── models/
+│   └── weather_model.dart
+└── widgets/
+    └── weather_card.dart
+📚 Documentation
+For full Flutter documentation, visit the Flutter official site.
+
+🤝 Contributions
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
+
+
+---
+
+Would you like help creating a visual demo thumbnail for your video link too?
+
